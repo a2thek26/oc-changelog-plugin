@@ -5,7 +5,7 @@ use Markdown;
 use BackendAuth;
 use Backend\Classes\ReportWidgetBase;
 use October\Rain\Network\Http;
-use System\Models\Parameters;
+use System\Models\Parameter as Parameters;
 use ApplicationException;
 use SystemException;
 use Exception;
